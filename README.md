@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kslicker
-- 👀 I’m interested in Python, OpenCV, Tkinter
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python, SwiftUI, JS ...
+- 🌱 I’m currently learning SwiftUI
 
 <!---
 kslicker/kslicker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
